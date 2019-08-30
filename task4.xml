@@ -1,0 +1,10 @@
+<?xml version=“1.0” ?>
+<person>
+     <first_name>ahsan</first_name>
+     <last_name>arain</last_name>
+     <date_of_birth>
+             <day>07</day>
+             <month>03</month>
+             <year>1998</year>
+      </date_of_birth>
+</person>
